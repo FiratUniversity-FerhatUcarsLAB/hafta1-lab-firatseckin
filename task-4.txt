@@ -55,7 +55,7 @@ En etkili yöntem **Böl ve Fethet** yaklaşımıdır; karmaşık şekilleri alt
 ---------------------------------------------------------
 [LLM KONUŞMA GEÇMİŞİ]
 
-👤 Kullanıcı:
+👤 FIRAT:
 "sıradaki görevin 'Lego ile belirli şekil yapma' algoritması,bunu Böl ve Fethet (Divide & Conquer) yaklaşımıyla çözmen gerekiyor"
 
 🤖 LLM:
