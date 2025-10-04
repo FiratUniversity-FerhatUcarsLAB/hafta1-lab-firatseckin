@@ -1,4 +1,63 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541042
+AD-SOYAD:Fırat Seçkin
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+seçtiğim görev 'Sosyal Medyada Viral Olma:'
+
+---------------------------------------------------------
+GÖREV 5: Sosyal Medyada Viral Olma
+---------------------------------------------------------
+
+[PSEUDOCODE]
+
+1. Başla
+2. Hedef platformu ve kitleni belirle (Instagram, TikTok, Twitter vb.)
+3. Trendleri ve popüler içerikleri analiz et
+4. İçerik fikri oluştur:
+       - İlgi çekici, kısa ve net
+       - Eğlenceli, şaşırtıcı veya bilgilendirici
+       - Görsel ve metin uyumlu
+5. İçeriği üret:
+       - Video, resim, meme veya yazı
+       - Kalite ve estetik kontrolü yap
+6. Paylaşım zamanını belirle:
+       - Hedef kitlenin aktif olduğu saatler
+7. Paylaş ve etkileşimi takip et:
+       - Beğeni, yorum, paylaşım, görüntüleme
+8. Kullanıcı geri bildirimlerini analiz et:
+       - Hangi içerik türü daha fazla ilgi çekti?
+       - Hangi başlık/etiket daha etkili?
+9. Gerekirse içeriği güncelle veya yeniden paylaş
+10. Başarılı içerikleri kaydet ve tekrar et
+11. Viral olma durumunu değerlendir:
+       - Hedeflenen etkileşim oranı sağlanmış mı?
+12. Bitir
+
+---------------------------------------------------------
+[FARKLI ÇÖZÜM YOLLARI ve KARŞILAŞTIRMASI]
+
+1. Yöntem: Trend Takibi ve Hızlı Paylaşım
+   + Avantaj: Güncel trendlere hızlı yanıt, kısa sürede yüksek görünürlük
+   - Dezavantaj: İçerik özgünlüğü sınırlı, trend değişirse etkisi düşer
+
+2. Yöntem: Kalıcı ve Yaratıcı İçerik Üretme
+   + Avantaj: Uzun vadede marka ve takipçi değeri artırır
+   - Dezavantaj: Viral olma süresi daha uzun, kısa sürede etkileşim düşük
+
+3. Yöntem: Etkileşim Optimizasyonu (Hashtag, Zamanlama, Etiketler)
+   + Avantaj: Daha geniş kitleye ulaşır, algoritmalar tarafından desteklenir
+   - Dezavantaj: Yalnızca teknik olarak görünürlük artırır, içerik kalitesi şart
+
+Sonuç:
+En etkili yaklaşım, **trend takibi + yaratıcı içerik + etkileşim optimizasyonu** kombinasyonudur. Hem hızlı viral olmayı hem de kalıcı değer yaratmayı sağlar.
+
+---------------------------------------------------------
+[LLM KONUŞMA GEÇMİŞİ]
+
+👤 FIRAT:
+"şimdi son görevimiz olan 'Sosyal medyada viral olma' algoritmasını yapıyoruz"
+
+🤖 LLM:
+"(gorev5.txt oluşturuldu, pseudocode, farklı çözüm yolları ve LLM geçmişi eklendi)"
+
+---------------------------------------------------------
