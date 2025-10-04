@@ -1,4 +1,70 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541042
+AD-SOYAD:Fırat Seçkin
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+seçtiğim görev 'Monopoly’de en iyi hamle seçimi:'
+
+---------------------------------------------------------
+GÖREV 2: Monopoly’de En İyi Hamle Seçimi
+---------------------------------------------------------
+
+[PSEUDOCODE]
+
+1. Başla
+2. Oyunun kurallarını ve kazanma hedeflerini gözden geçir
+3. Sahip olunan parayı, mülkleri ve rakiplerin durumunu analiz et
+4. Eğer elinde nakit varsa:
+       - En yüksek getiri sağlayacak mülkleri satın al
+       - Rakiplerin stratejisine göre bloklar tamamla
+   aksi halde:
+       - kira ödemeleri ve borç yönetimini planla
+5. Her turda:
+       - Zar at ve mümkünse stratejik hamleleri değerlendir
+       - Hangi mülkleri geliştirmek (ev/hotel) mantıklıysa önceliklendir
+       - Rakipleri engelleyecek hamleleri düşün (örn. bloklama)
+6. Risk ve getiri analizini yap:
+       - Yüksek riskli ama büyük ödüllü hamleler: kontrol et
+       - Düşük riskli, orta getiri: dengeli oyna
+7. Para veya mülk kritik seviyenin altına düşerse:
+       - Satış veya mortgage seçeneklerini değerlendir
+       - Gereksiz harcamalardan kaçın
+8. Oyuncuların hamlelerini gözlemle ve stratejiyi güncelle
+9. Kazanma şansı yüksek olduğunda agresif oyna, düşükse savunma
+10. Tur bitince durumu değerlendir ve not al
+11. Oyun sona erene kadar 4. adımdan devam et
+12. Oyunu bitir ve performansı analiz et
+
+---------------------------------------------------------
+[FARKLI ÇÖZÜM YOLLARI ve KARŞILAŞTIRMASI]
+
+1. Yöntem: Agresif Alım (Tüm mülkleri mümkün olduğunca satın alma)
+   + Avantaj: Rakipleri hızlı şekilde kısıtlar, oyun kontrolü sağlar
+   - Dezavantaj: Para hızlı tükenebilir, borç riski artar
+
+2. Yöntem: Dengeli Strateji (Önce blokları tamamla, sonra ev/hotel yap)
+   + Avantaj: Daha güvenli, risk yönetimi iyi
+   - Dezavantaj: Kazanç yavaş, fırsatlar kaçabilir
+
+3. Yöntem: Pasif/Minimal Hamle (Sadece zorunlu satın al)
+   + Avantaj: Risk neredeyse yok
+   - Dezavantaj: Rakipler hızla avantaj elde eder, kazanma şansı düşük
+
+Sonuç:
+En iyi yaklaşım, **dengeli strateji ile agresif fırsatları harmanlamak**: Blok tamamlamak ve fırsat gördüğünde hızlı alım yapmak.
+
+---------------------------------------------------------
+[LLM KONUŞMA GEÇMİŞİ]
+
+👤 Kullanıcı:
+"çok iyi şimdi 2. görevin 'Monopoly’de en iyi hamle seçimi' ni de aynı şekilde yapmanı istiyorum"
+
+🤖 LLM:
+"(Tam formatta gorev2.txt hazırlandı, pseudocode, çözüm yolları ve LLM geçmişi eklendi)"
+
+👤 Kullanıcı:
+"Tamam, güzel oldu. Her görev için ayrı .txt dosyası olacak şekilde bunları kaydetmek yeterli."
+
+🤖 LLM:
+"(Önerildi: gorev1.txt ve gorev2.txt olarak saklamak, her dosyada öğrenci bilgileri, pseudocode, çözüm yolları ve LLM konuşma geçmişi olacak.)"
+
+---------------------------------------------------------
