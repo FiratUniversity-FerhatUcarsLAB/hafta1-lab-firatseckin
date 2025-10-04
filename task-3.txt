@@ -51,16 +51,10 @@ En iyi yöntem, **çok kriterli sıralama + otomatik metadata kontrol ve duplika
 ---------------------------------------------------------
 [LLM KONUŞMA GEÇMİŞİ]
 
-👤 Kullanıcı:
+👤 FIRAT:
 "aynı şekilde devam sıradaki görevin 'Müzik koleksiyonunu düzenleme' bu bir veri sırlama ve düzenleme algoritması"
 
 🤖 LLM:
 "(gorev3.txt oluşturuldu, pseudocode, çözüm yolları ve LLM geçmişi eklendi)"
-
-👤 Kullanıcı:
-"Tamam, çok iyi. Bu şekilde her görev ayrı .txt dosyası olacak şekilde ilerleyelim"
-
-🤖 LLM:
-"(Gorev1, Gorev2, Gorev3 formatı uyumlu şekilde hazırlandı, her biri öğrenci bilgileri, pseudocode, çözüm yolları ve LLM geçmişi içeriyor)"
 
 ---------------------------------------------------------
