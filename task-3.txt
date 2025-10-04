@@ -1,4 +1,66 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541042
+AD-SOYAD:Fırat Seçkin
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Seçtiğim görev 'Müzik koleksiyonunu düzenleme:'
+
+---------------------------------------------------------
+GÖREV 3: Müzik Koleksiyonunu Düzenleme
+---------------------------------------------------------
+
+[PSEUDOCODE]
+
+1. Başla
+2. Koleksiyon verilerini oku (şarkı adı, sanatçı, albüm, tür, çıkış yılı)
+3. Kullanıcının önceliklerini belirle (ör. tür, sanatçı, tarih, favori)
+4. Eğer kullanıcı öncelik vermediyse:
+       - Varsayılan sıralama: alfabetik sanatçı > albüm > şarkı
+5. Her şarkı için metadata doğrulama yap:
+       - Eksik veya hatalı bilgileri işaretle
+6. Koleksiyonu kategori ve alt kategorilere ayır:
+       - Tür -> Sanatçı -> Albüm -> Şarkı
+7. Sıralama algoritmasını uygula:
+       - Alfabetik, tarihe göre veya kullanıcı tercihine göre
+8. Duplikat şarkıları tespit et:
+       - Eğer varsa, kullanıcıya bildirim ve silme/onay seçeneği sun
+9. Filtreleme seçenekleri oluştur:
+       - Tür, sanatçı, albüm, favori, çalma süresi vb.
+10. Düzenlenmiş koleksiyonu kaydet ve yedekle
+11. Kullanıcıya özet rapor göster:
+       - Toplam şarkı sayısı, eksik metadata, duplikatlar
+12. Bitir
+
+---------------------------------------------------------
+[FARKLI ÇÖZÜM YOLLARI ve KARŞILAŞTIRMASI]
+
+1. Yöntem: Basit Alfabetik Sıralama
+   + Avantaj: Hızlı ve kolay, az karmaşıklık
+   - Dezavantaj: Kullanıcı tercihlerine göre esnek değil
+
+2. Yöntem: Çok Kriterli Sıralama (Tür, Sanatçı, Albüm, Tarih)
+   + Avantaj: Koleksiyon mantıklı ve anlaşılır şekilde organize edilir
+   - Dezavantaj: Daha fazla işlem ve karmaşıklık, metadata hatası etkili olur
+
+3. Yöntem: Otomatik Duplikat ve Eksik Metadata Düzeltme
+   + Avantaj: Koleksiyon temiz ve doğru olur
+   - Dezavantaj: Yanlış eşleştirme riski, manuel kontrol gerekebilir
+
+Sonuç:
+En iyi yöntem, **çok kriterli sıralama + otomatik metadata kontrol ve duplikat tespiti**: hem düzenli hem güvenilir koleksiyon sağlar.
+
+---------------------------------------------------------
+[LLM KONUŞMA GEÇMİŞİ]
+
+👤 Kullanıcı:
+"aynı şekilde devam sıradaki görevin 'Müzik koleksiyonunu düzenleme' bu bir veri sırlama ve düzenleme algoritması"
+
+🤖 LLM:
+"(gorev3.txt oluşturuldu, pseudocode, çözüm yolları ve LLM geçmişi eklendi)"
+
+👤 Kullanıcı:
+"Tamam, çok iyi. Bu şekilde her görev ayrı .txt dosyası olacak şekilde ilerleyelim"
+
+🤖 LLM:
+"(Gorev1, Gorev2, Gorev3 formatı uyumlu şekilde hazırlandı, her biri öğrenci bilgileri, pseudocode, çözüm yolları ve LLM geçmişi içeriyor)"
+
+---------------------------------------------------------
