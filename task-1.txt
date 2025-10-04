@@ -1,4 +1,78 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541042
+AD-SOYAD:Fırat Seçkin
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+seçtiğim görev 'Favori oyunda yüksek skor alma:'
+
+---------------------------------------------------------
+GÖREV 1: Favori Oyunda Yüksek Skor Alma
+---------------------------------------------------------
+
+[PSEUDOCODE]
+
+1. Başla
+2. Oyunu aç ve kuralları gözden geçir
+3. Puan sistemini analiz et (hangi eylemler en çok puan getiriyor?)
+4. Eğer strateji belirlenmemişse:
+       pratik yap, oyun mekaniğini öğren
+   aksi halde:
+       en etkili stratejiyle başla
+5. Her tur sonunda:
+       - Hataları not et
+       - Başarılı hamleleri kaydet
+6. Odak dağılırsa:
+       - kısa bir ara ver
+       - yeniden dene
+7. Skor önceki en yüksek skoru geçerse:
+       - yeni rekoru kaydet
+       - motivasyonu artır
+   değilse:
+       - stratejiyi gözden geçir ve tekrar dene
+8. Zaman veya enerji bitene kadar 4. adıma dön
+9. Bitir ve genel gelişimi değerlendir
+
+---------------------------------------------------------
+[FARKLI ÇÖZÜM YOLLARI ve KARŞILAŞTIRMASI]
+
+1. Yöntem: Deneme-Yanılma (Trial and Error)
+   + Avantaj: Kişisel deneyim artar, refleks gelişir.
+   - Dezavantaj: Zaman kaybı fazla olabilir.
+
+2. Yöntem: İnternetten Strateji Araştırmak
+   + Avantaj: Daha hızlı sonuç, kısa sürede yüksek skor.
+   - Dezavantaj: Kendi oyun tarzını geliştirmeyi engelleyebilir.
+
+3. Yöntem: Veri Takibi (Skor İstatistiği Tutma)
+   + Avantaj: Bilimsel ilerleme, hangi hareket ne kadar puan getiriyor görebilme.
+   - Dezavantaj: Ekstra efor ve zaman gerektirir.
+
+Sonuç:
+En dengeli yöntem, 1. ve 2. yaklaşımların karışımıdır: 
+Kendi deneyimini edinirken, çevrimiçi stratejileri rehber olarak kullanmak.
+
+---------------------------------------------------------
+[LLM KONUŞMA GEÇMİŞİ]
+
+👤 Kullanıcı:
+"Dost yardımın lazım"
+
+🤖 LLM (ChatGPT):
+"Tabii dostum, buradayım. Ne konuda yardıma ihtiyacın var?"
+
+👤 Kullanıcı:
+"Problemi analiz edin
+Adım adım pseudocode yazın
+LLM araçlarından aldığınız yardımı, sorularınızı ve cevaplarını da ekleyin
+Farklı çözüm yollarını tartışın"
+
+🤖 LLM:
+"(Detaylı problem analizi ve örnek Two-Sum algoritması paylaşıldı...)"
+
+👤 Kullanıcı:
+"Şimdi böyle değil de çok kabaca ya da pseudocode dediğimiz şekilde bir algoritma yapmanı isteyeceğim ama günlük hayattan olacak tamamen anladın mı ilki Favori oyunda yüksek skor alma"
+
+🤖 LLM:
+"(Günlük yaşama uygun sade pseudocode verildi...)"
+
+
+---------------------------------------------------------
