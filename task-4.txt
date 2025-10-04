@@ -1,4 +1,64 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541042
+AD-SOYAD:Fırat Seçkin
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+seçtiğim görev 'Lego ile belirli şekil yapma:'
+
+---------------------------------------------------------
+GÖREV 4: Lego ile Belirli Şekil Yapma 
+---------------------------------------------------------
+
+[PSEUDOCODE]
+
+1. Başla
+2. Yapılacak şekli incele ve ölçülerini belirle
+3. Şekli alt parçalara böl:
+       - Büyük blokları mantıklı alt bölgelere ayır
+       - Her alt parça mümkün olduğunca bağımsız olmalı
+4. Her alt parçayı yapacak adımları planla:
+       - Blok tipleri ve renkleri belirle
+       - Parçaların birbirine nasıl bağlanacağını tanımla
+5. Alt parçaları sırayla oluştur:
+       FOR her alt parça:
+           - Gerekli Lego bloklarını hazırla
+           - Alt parçayı oluştur
+           - Test et ve sağlamlığını kontrol et
+6. Tüm alt parçalar tamamlandıktan sonra:
+       - Alt parçaları birleştir
+       - Bağlantı noktalarını kontrol et
+7. Eğer birleşim sırasında sorun çıkarsa:
+       - Sorunlu alt parçayı düzelt
+       - Yeniden birleştir
+8. Şekil tamamlandığında genel kontrol yap:
+       - Orijinal tasarıma uyum
+       - Stabilite
+9. Bitir ve şekli göster
+
+---------------------------------------------------------
+[FARKLI ÇÖZÜM YOLLARI ve KARŞILAŞTIRMASI]
+
+1. Yöntem: Böl ve Fethet (Divide & Conquer)
+   + Avantaj: Karmaşık şekilleri yönetilebilir alt parçalara ayırır, hata bulmayı kolaylaştırır
+   - Dezavantaj: Alt parçaların birleştirilmesi sırasında ek dikkat gerekir
+
+2. Yöntem: Doğrudan Tek Parça Yapım
+   + Avantaj: Tek seferde ilerler, bazı basit şekiller için hızlı
+   - Dezavantaj: Büyük veya karmaşık şekillerde hata yapma riski yüksek, zor düzeltme
+
+3. Yöntem: Şablon/Referans Kullanarak Katman Katman Yapım
+   + Avantaj: Adım adım ilerleyerek hata azaltır
+   - Dezavantaj: Yaratıcılık sınırlı, büyük tasarımlarda zaman alır
+
+Sonuç:
+En etkili yöntem **Böl ve Fethet** yaklaşımıdır; karmaşık şekilleri alt parçalar halinde oluşturmak hem güvenli hem sistematik bir yol sağlar.
+
+---------------------------------------------------------
+[LLM KONUŞMA GEÇMİŞİ]
+
+👤 Kullanıcı:
+"sıradaki görevin 'Lego ile belirli şekil yapma' algoritması,bunu Böl ve Fethet (Divide & Conquer) yaklaşımıyla çözmen gerekiyor"
+
+🤖 LLM:
+"(gorev4.txt oluşturuldu, Böl ve Fethet mantığında pseudocode, çözüm yolları ve LLM geçmişi eklendi)"
+
+---------------------------------------------------------
