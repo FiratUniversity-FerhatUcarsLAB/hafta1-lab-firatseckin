@@ -53,26 +53,25 @@ Kendi deneyimini edinirken, çevrimiçi stratejileri rehber olarak kullanmak.
 ---------------------------------------------------------
 [LLM KONUŞMA GEÇMİŞİ]
 
-👤 Kullanıcı:
+👤 FIRAT:
 "Dost yardımın lazım"
 
 🤖 LLM (ChatGPT):
 "Tabii dostum, buradayım. Ne konuda yardıma ihtiyacın var?"
 
-👤 Kullanıcı:
+👤 FIRAT:
 "Problemi analiz edin
 Adım adım pseudocode yazın
 LLM araçlarından aldığınız yardımı, sorularınızı ve cevaplarını da ekleyin
-Farklı çözüm yollarını tartışın"
+Farklı çözüm yollarını tartışın" bu adımları izleyeceğiz her algoritma görevinde.
 
 🤖 LLM:
 "(Detaylı problem analizi ve örnek Two-Sum algoritması paylaşıldı...)"
 
-👤 Kullanıcı:
+👤 FIRAT:
 "Şimdi böyle değil de çok kabaca ya da pseudocode dediğimiz şekilde bir algoritma yapmanı isteyeceğim ama günlük hayattan olacak tamamen anladın mı ilki Favori oyunda yüksek skor alma"
 
 🤖 LLM:
 "(Günlük yaşama uygun sade pseudocode verildi...)"
-
 
 ---------------------------------------------------------
