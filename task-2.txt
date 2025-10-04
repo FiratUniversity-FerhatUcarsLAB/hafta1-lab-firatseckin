@@ -55,13 +55,13 @@ En iyi yaklaşım, **dengeli strateji ile agresif fırsatları harmanlamak**: Bl
 ---------------------------------------------------------
 [LLM KONUŞMA GEÇMİŞİ]
 
-👤 Kullanıcı:
+👤 FIRAT:
 "çok iyi şimdi 2. görevin 'Monopoly’de en iyi hamle seçimi' ni de aynı şekilde yapmanı istiyorum"
 
 🤖 LLM:
 "(Tam formatta gorev2.txt hazırlandı, pseudocode, çözüm yolları ve LLM geçmişi eklendi)"
 
-👤 Kullanıcı:
+👤 FIRAT:
 "Tamam, güzel oldu. Her görev için ayrı .txt dosyası olacak şekilde bunları kaydetmek yeterli."
 
 🤖 LLM:
