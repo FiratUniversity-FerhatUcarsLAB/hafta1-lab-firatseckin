@@ -54,12 +54,6 @@ Kendi deneyimini edinirken, çevrimiçi stratejileri rehber olarak kullanmak.
 [LLM KONUŞMA GEÇMİŞİ]
 
 👤 FIRAT:
-"Dost yardımın lazım"
-
-🤖 LLM (ChatGPT):
-"Tabii dostum, buradayım. Ne konuda yardıma ihtiyacın var?"
-
-👤 FIRAT:
 "Problemi analiz edin
 Adım adım pseudocode yazın
 LLM araçlarından aldığınız yardımı, sorularınızı ve cevaplarını da ekleyin
